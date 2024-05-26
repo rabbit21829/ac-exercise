@@ -1,0 +1,10 @@
+.favorite-btn{
+  background-color: rgba(0,0,0,0);
+  border:none;
+}
+#user-modal-description{
+  word-wrap:break-word;
+}
+.red-heart{
+  color:red;
+}
